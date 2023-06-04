@@ -90,3 +90,14 @@ input[type=submit] {
     font-size:12px;
     color:#666;
 }
+
+.pagination-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 20px 0;
+  }
